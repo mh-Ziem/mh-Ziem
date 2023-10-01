@@ -22,4 +22,3 @@
   
 </div>
 
-![snake animation](https://github.com/mh-Ziem/mh-Ziem/blob/output/github-contribution-grid-snake.svg)
