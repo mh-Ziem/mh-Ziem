@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📌 i'm a computer science student from Curitiba, Brazil
-- 🌱 i'm learning JS, CSS and HTML, besides that, i'm learning to improving my english
+- 🌱 i'm learning JS, CSS and HTML
 - 📫 How to reach me: mthziem@gmail.com
 - 😄 Pronouns: he/him
 
@@ -21,3 +21,5 @@
   <a href = "mailto:mthziem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+![snake animation](https://github.com/mh-Ziem/mh-Ziem/blob/output/github-contribution-grid-snake.svg)
