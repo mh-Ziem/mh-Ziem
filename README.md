@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- 🤺 Working in Akiyama Group
 - 📌 i'm a computer science student from Curitiba, Brazil
-- 🌱 i'm learning JS, CSS and HTML
+- 🌱 currently, i'm learning JS, CSS and HTML
 - 📫 How to reach me: mthziem@gmail.com
 - 😄 Pronouns: he/him
 
