@@ -2,7 +2,7 @@
 
 - 🤺 Working in Akiyama Group
 - 📌 i'm a computer science student from Curitiba, Brazil
-- 🌱 currently, i'm learning JS and arduino applications
+- 🌱 currently, i'm learning Database with Jupyter and Excel's VBA
 - 📫 How to reach me: mthziem@gmail.com
 - 😄 Pronouns: he/him
 
