@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" alt="Me-Js" height="1074" width="654" src="https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif">
+<img align="center" alt="Me-Js" height="654" width="1074" src="https://64.media.tumblr.com/167bafe644e9a2af464a7664e26b88f7/tumblr_ool545MQ4E1vcsrlfo1_1280.gif">
 
 - 🤺 Working in Akiyama Group
 - 📌 i'm a computer science student from Curitiba, Brazil
