@@ -10,6 +10,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Me-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Me-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Me-java" height="30" width="40" src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png">
+  <img align="center" alt="Me-java" height="30" width="40" src="https://www.svgrepo.com/show/374159/vba.svg">
+  
+  
 </div>
 
 ##
